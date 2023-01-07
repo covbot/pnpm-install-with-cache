@@ -1,5 +1,5 @@
 name: 'pnpm install with cache'
-description: 'Install pnpm dependencies with automatic pnpm store caching'
+description: 'Speed up pnpm installation by caching pnpm store.'
 author: 'Covbot'
 branding:
     icon: 'box'
