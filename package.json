@@ -1,0 +1,16 @@
+{
+	"name": "@covbot/pnpm-install-with-cache",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"format": "prettier --write **/*.{json,yaml,yml,md}"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"prettier": "^2.8.2"
+	}
+}
