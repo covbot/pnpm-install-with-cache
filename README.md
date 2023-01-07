@@ -6,5 +6,5 @@ Speed up pnpm installation by caching pnpm store.
 
 ```yaml
 - name: Install pnpm dependencies (with cache)
-  uses: covbot/pnpm-install-with-cache
+  uses: covbot/pnpm-install-with-cache@v1
 ```
